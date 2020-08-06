@@ -1,0 +1,51 @@
+.container1{
+    background-color: hotpink;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    
+}
+.cardBody{
+    display: flex;
+    justify-content: space-between;
+}
+.kotakKiri{
+    background-color: lavender;
+    justify-content: center;
+    flex-direction: row;
+    max-width: 900px;
+}
+.kotakKiri img{
+    height: 450px;
+}
+
+.isi{
+    align-self: center;
+    padding: 30px;
+}
+
+.container2{
+    background-color: hotpink;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    
+}
+.cardBody2{
+    display: flex;
+    justify-content: space-between;
+}
+.kotakKanan{
+    padding: 30px;
+    
+    justify-content: center;
+    flex-direction: row;
+    max-width: 900px;
+    align-self: center;
+}  
+
+
+
+.isi2 img{
+    height: 450px;
+}

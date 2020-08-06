@@ -1,0 +1,13 @@
+.containerBlog{
+    background-color: gainsboro;
+    display: flex;
+    max-width: 600px;
+    height: 400px;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 50px;
+    padding: 30px;
+    color: rgb(122, 122, 122);
+    border-radius: 10px;
+}  
+
