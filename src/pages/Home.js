@@ -1,6 +1,4 @@
 import React from 'react'
-
-
 import Layout from '../layout/Layout'
 import VideoYouTube from '../component/videoYoutube'
 import CardFilosophy from '../component/CardFilosophy'
