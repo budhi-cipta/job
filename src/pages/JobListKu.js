@@ -1,5 +1,5 @@
 import React from 'react'
-import Layout from '../layout/layout';
+import Layout from '../layout/Layout'
 import JobList from '../component/JobList/JobList'
 
 const JobListKu = () => {

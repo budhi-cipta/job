@@ -6,11 +6,11 @@ import Footer from './Footer'
 
 const Layout = (Section) => {
     return(
-        <container>
+        <div className="container">
             <Header />
             {Section.children}
             <Footer />
-        </container>
+        </div>
     )
 }
 

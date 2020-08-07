@@ -14,8 +14,8 @@ const Header = () => {
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">
                         <Link to="/Home">Home</Link>
-                        <Link to="/ListJob">List Job</Link>
-                        <Link to="/BlogList">Blog List</Link>
+                        <Link to="/joblist">List Job</Link>
+                        <Link to="/bloglist">Blog List</Link>
                     </Nav>
                     <Form inline>
                     <FormControl type="text" placeholder="Search" className="mr-sm-2" />

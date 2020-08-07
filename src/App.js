@@ -13,10 +13,10 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route path='/JobList'>
+        <Route path='/joblist'>
           <JobListKu />
         </Route>
-        <Route path='/Bloglist'>
+        <Route path='/bloglist'>
           <BlogList />
         </Route>
         <Route path='/'>
